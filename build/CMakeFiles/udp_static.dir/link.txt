@@ -1,0 +1,2 @@
+/usr/bin/ar qc libudp_static.a CMakeFiles/udp_static.dir/udp.c.o
+/usr/bin/ranlib libudp_static.a

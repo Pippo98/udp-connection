@@ -1,0 +1,6 @@
+/home/filippo/github/udp-connection/build/CMakeFiles/udp_shared.dir
+/home/filippo/github/udp-connection/build/CMakeFiles/udp_static.dir
+/home/filippo/github/udp-connection/build/CMakeFiles/sender.dir
+/home/filippo/github/udp-connection/build/CMakeFiles/receiver.dir
+/home/filippo/github/udp-connection/build/CMakeFiles/edit_cache.dir
+/home/filippo/github/udp-connection/build/CMakeFiles/rebuild_cache.dir

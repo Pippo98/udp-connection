@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libudp_shared.so -o libudp_shared.so CMakeFiles/udp_shared.dir/udp.c.o 

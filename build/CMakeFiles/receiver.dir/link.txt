@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/receiver.dir/receiver.c.o -o receiver  -Wl,-rpath,/home/filippo/github/udp-connection/build libudp_shared.so -lm 

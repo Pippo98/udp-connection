@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/sender.dir/sender.c.o -o sender  -Wl,-rpath,/home/filippo/github/udp-connection/build libudp_shared.so -lm 
